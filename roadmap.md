@@ -23,6 +23,15 @@ Swarkn Yol Haritası, Swarkn projesinde yapılacakları listeler. Bu liste zaman
 - [ ] Gönderilerde ve Yorumlarda GIF paylaşma.
 - [ ] Hashtag ekle.
 - [ ] Bildirimler, Overlay olarak ekrana düşmeli. Arama başlatıldı vari.
+- [ ] Profile eklenecekler:
+  - [ ] Rozetler
+  - [ ] Etiketler
+  - [ ] Seviyeler
+  - [ ] İlişki Durumu
+  - [ ] İş Durumu
+  - [ ] Çerçeveler ve Arkaplan Banner
+  - [ ] İletişim Bilgileri
+
 
 ### Hata Düzeltmeleri
 
