@@ -8,21 +8,25 @@ Swarkn Yol Haritası, Swarkn projesinde yapılacakları listeler. Bu liste zaman
 
 > **$Ayarlar$:** Profil -> Ayarlar
 
+### Geliştirici tarafından önceliklendirildi
+
+- [ ] Bildirimler, Overlay olarak ekrana düşmeli. Arama başlatıldı vari.
+- [ ] Kullanıcı arama sekmesi.
+- [ ] Uygulama sürümü bilgisi eklenecek.
+- [ ] $Topluluk$: Topluluk içi hikayeler.
+
 ### Beklenen Özellikler
 
-- [ ] $Topluluk$: Özel Topluluk - Genel Topluluk - Süper Topluluk tiplerinde topluluklar.
-- [ ] Kullanıcı arama sekmesi.
+- [x] $Topluluk$: Özel Topluluk - Genel Topluluk - Süper Topluluk tiplerinde topluluklar.
 - [ ] $Ayarlar$: Tema Özelleştirme.
-- [ ] Gönderilerde "Paylaş" butonu aktifleşmeli.
+- [x] Gönderilerde "Paylaş" butonu aktifleşmeli.
 - [ ] Gönderilerde "Kaydet" butonu eklenmeli.
 - [ ] **$Topluluk$: Tartışmalar (Bir konu başlat)**
-- [ ] $Topluluk$: Topluluk içi hikayeler.
 - [ ] $Topluluk$: Anket yayınlama.
 - [ ] $Topluluk$: Etkinlik yayınlama. 
-- [ ] $Topluluk$: Yeni Oda Aç - Odaları Yönet. 
+- [x] $Topluluk$: Yeni Oda Aç - Odaları Yönet. 
 - [ ] Gönderilerde ve Yorumlarda GIF paylaşma.
-- [ ] Hashtag ekle.
-- [ ] Bildirimler, Overlay olarak ekrana düşmeli. Arama başlatıldı vari.
+- [ ] Hashtag eklenecek.
 - [ ] Profile eklenecekler:
   - [ ] Rozetler
   - [ ] Etiketler
@@ -35,9 +39,10 @@ Swarkn Yol Haritası, Swarkn projesinde yapılacakları listeler. Bu liste zaman
 
 ### Hata Düzeltmeleri
 
-- [ ] Gönderilerde kullanıcı adı değişmişse, kullanıcı adı görünmüyor.
-- [ ] Özel Mesajlaşmada, üst bar görünmüyor.
-- [ ] Özel Mesajlaşma Desktop versiyonunda tam ekran görünüyor. Yarım olmalı.
+- [x] Gönderilerde kullanıcı adı değişmişse, kullanıcı adı görünmüyor.
+- [x] Özel Mesajlaşmada, üst bar görünmüyor.
+- [x] Özel Mesajlaşma Desktop versiyonunda tam ekran görünüyor. Yarım olmalı.
+- [x] Mesajlaşma anında ENTER ile gönder, SHIFT+ENTER ile alt satıra geç.
 
 ## Orta - Uzun Vadeli Planlar
 
